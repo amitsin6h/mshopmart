@@ -34,7 +34,7 @@
     "@ecomplus/storefront-template": "^2.0.0-beta.12"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.10"
   },
   "browserslist": [
     "> 0.5%",
